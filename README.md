@@ -1,4 +1,4 @@
-#Welcome to my GitHub!
+# Welcome to my GitHub!
 - Hi, I’m @NiklavsKalvans
 - I’m a aspiring software delevoper who's interested in everything technology.
 - I’m currently learning to improve my problem-solving skills and becoming a better developer.
